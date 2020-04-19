@@ -1,6 +1,3 @@
-# visualization_samples
-Data visualization
-
 # description
 Examples of data visualization using jupyter notebooks and libraries such as Bokeh
 
